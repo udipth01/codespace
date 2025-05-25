@@ -1,1 +1,1 @@
-# codespace
+echo $GITHUB_REPOSITORY $GITHUB_TOKEN
